@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Introduction to Git";
+    cout<<"Hello";
+    cout<<"This is dev branch";
 }
