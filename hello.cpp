@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello";
-    cout<<"This is git tutoriall";
+    cout<<"Hello CPP";
+    cout<<"This is git tutorialll";
 }
